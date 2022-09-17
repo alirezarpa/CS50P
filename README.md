@@ -1,4 +1,4 @@
-Harvard CS50ح — 2022 Solutions 😎
+Harvard CS50p — 2022 Solutions 😎
 =====================
 
 -   [Course Link](https://cs50.harvard.edu/python/2022/)
@@ -7,7 +7,7 @@ Harvard CS50ح — 2022 Solutions 😎
 
 ## What is it?
 
-Introduction to Computer Science from Harvard, better known as CS50, is the largest course on the Harvard campus that are open to learners of all backgrounds looking to explore computer science, mobile app and game development, business technologies, and the art of programming.
+An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and “debug” it. Designed for students with or without prior programming experience who’d like to learn Python specifically.
 
 -   ✅ Videos
 -   ✅ Lab & Problem Set & Final Project
