@@ -2,7 +2,7 @@ Harvard CS50p — 2022 Solutions 😎
 =====================
 
 -   [Course Link](https://cs50.harvard.edu/python/2022/)
--   [My Certificate](https://cs50.harvard.edu/certificates/...)
+-   [My Certificate](https://cs50.harvard.edu/certificates/6315f067-7b65-481b-9297-ef151fe33ce5)
 -   [Final Project](https://github.com/...../....)
 
 ## What is it?
@@ -77,4 +77,4 @@ Go ahead and take a peek at the solutions.
 I finished this course on August .., 2022.
 The picture below shows my certificate after completing all the assignments:
 
-![cs50x](img/CS50x.png)
+![cs50x](img/CS50p.png)
