@@ -31,6 +31,12 @@ Go ahead and take a peek at the solutions.
   * [Indoor](/Week0/indoor)
   * [Playback](/Week0/playback)
   * [Tip](/Week0/tip)
+ - [Problem Set 1: Conditionals](/Week1)
+  * [Deep Thought](/Week1/deep)
+  * [Home Federal Savings Bank](/Week1/bank)
+  * [File Extensions](/Week1/extensions)
+  * [Math Interpreter](/Week1/interpreter)
+  * [Meal Time](/Week1/meal)
 - [Problem Set9: Et Cetera](https://github.com/alirezarpa/Tic-Tac-Toe)
   * [Final Project](https://github.com/alirezarpa/Tic-Tac-Toe)
 
